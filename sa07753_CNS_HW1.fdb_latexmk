@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1726438047.47152 "c:/Users/Ahad/Documents/SEM7/CNS/HW1/sa07753_CNS_HW1.tex" "sa07753_CNS_HW1.pdf" "sa07753_CNS_HW1" 1726438049.70689 0
+["pdflatex"] 1726597642.00763 "c:/Users/Ahad/Documents/SEM7/CNS/HW1/sa07753_CNS_HW1.tex" "sa07753_CNS_HW1.pdf" "sa07753_CNS_HW1" 1726597647.67861 0
   "C:/Program Files/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -171,14 +171,14 @@
   "C:/Program Files/MiKTeX/tex/latex/tools/array.sty" 1700599895 12667 e4b5eb11e4b7239e6c8a52bbe074a6c6 ""
   "C:/Program Files/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Program Files/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "C:/Users/Ahad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1725351420 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+  "C:/Users/Ahad/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1726517922 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Ahad/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1725611512 11548 24bc2093043cc718f68aabba8cf2f5e0 ""
-  "C:/Users/Ahad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1725351437 24215268 a71f96593fcde6f42c30164e1fb7f029 ""
-  "c:/Users/Ahad/Documents/SEM7/CNS/HW1/sa07753_CNS_HW1.tex" 1726438043 45776 399e8ea7e0ea53a83b7f472efc823184 ""
+  "C:/Users/Ahad/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1726517746 24215269 923efdb467856e79decb9433fac745e2 ""
+  "c:/Users/Ahad/Documents/SEM7/CNS/HW1/sa07753_CNS_HW1.tex" 1726597638 45828 d310612b801fdb88cd1e7dc136e16744 ""
   "python/figure.png" 1726423722 88359 f6cdb4cae2d44f8b6314f4058f3bd510 ""
-  "sa07753_CNS_HW1.aux" 1726438049 5627 0c221a218c63c85aae659914949777e5 "pdflatex"
-  "sa07753_CNS_HW1.out" 1726438048 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "sa07753_CNS_HW1.tex" 1726438043 45776 399e8ea7e0ea53a83b7f472efc823184 ""
+  "sa07753_CNS_HW1.aux" 1726597647 5627 0c221a218c63c85aae659914949777e5 "pdflatex"
+  "sa07753_CNS_HW1.out" 1726597646 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "sa07753_CNS_HW1.tex" 1726597638 45828 d310612b801fdb88cd1e7dc136e16744 ""
   (generated)
   "sa07753_CNS_HW1.aux"
   "sa07753_CNS_HW1.log"
